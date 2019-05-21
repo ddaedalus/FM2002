@@ -1,0 +1,80 @@
+<record>
+
+<!-- resource manager options -->
+
+<!-- dont preload anything in this folder -->
+
+<boolean id="preload" value="false"/>
+
+<!-- turn off auto mapping -->
+
+<boolean id="amap" value="false"/>
+
+<!-- logo mappings -->
+
+<!-- the following XML maps pictures inside this folder into other positions
+
+in the resource system, which allows this folder to be dropped into any
+
+place in the graphics folder and still have the game pick up the graphics
+
+files from the correct places
+
+-->
+
+<list id="maps">
+
+<record from="811" to="graphics/pictures/person/811/portrait"/>
+<record from="54" to="graphics/pictures/person/54/portrait"/>
+<record from="45" to="graphics/pictures/person/45/portrait"/>
+<record from="1277" to="graphics/pictures/person/1277/portrait"/>
+<record from="3268" to="graphics/pictures/person/3268/portrait"/>
+<record from="4635" to="graphics/pictures/person/4635/portrait"/>
+<record from="8074" to="graphics/pictures/person/8074/portrait"/>
+<record from="8076" to="graphics/pictures/person/8076/portrait"/>
+<record from="8432" to="graphics/pictures/person/8432/portrait"/>
+<record from="8440" to="graphics/pictures/person/8440/portrait"/>
+<record from="9888" to="graphics/pictures/person/9888/portrait"/>
+<record from="9893" to="graphics/pictures/person/9893/portrait"/>
+<record from="11117" to="graphics/pictures/person/11117/portrait"/>
+<record from="11133" to="graphics/pictures/person/11133/portrait"/>
+<record from="11946" to="graphics/pictures/person/11946/portrait"/>
+<record from="11952" to="graphics/pictures/person/11952/portrait"/>
+<record from="12230" to="graphics/pictures/person/12230/portrait"/>
+<record from="12545" to="graphics/pictures/person/12545/portrait"/>
+<record from="15741" to="graphics/pictures/person/15741/portrait"/>
+<record from="105986" to="graphics/pictures/person/105986/portrait"/>
+<record from="114659" to="graphics/pictures/person/114659/portrait"/>
+<record from="707710" to="graphics/pictures/person/707710/portrait"/>
+<record from="2003443" to="graphics/pictures/person/2003443/portrait"/>
+<record from="2006171" to="graphics/pictures/person/2006171/portrait"/>
+<record from="2007286" to="graphics/pictures/person/2007286/portrait"/>
+<record from="3301294" to="graphics/pictures/person/3301294/portrait"/>
+<record from="3801681" to="graphics/pictures/person/3801681/portrait"/>
+<record from="4200583" to="graphics/pictures/person/4200583/portrait"/>
+<record from="4200622" to="graphics/pictures/person/4200622/portrait"/>
+<record from="1394631369" to="graphics/pictures/person/1394631369/portrait"/>
+<record from="1394631856" to="graphics/pictures/person/1394631856/portrait"/>
+<record from="1394631857" to="graphics/pictures/person/1394631857/portrait"/>
+<record from="1394631858" to="graphics/pictures/person/1394631858/portrait"/>
+<record from="1394631880" to="graphics/pictures/person/1394631880/portrait"/>
+<record from="1394631889" to="graphics/pictures/person/1394631889/portrait"/>
+<record from="1394631162" to="graphics/pictures/person/1394631162/portrait"/>
+<record from="66" to="graphics/pictures/person/66/portrait"/>
+<record from="9670" to="graphics/pictures/person/9670/portrait"/>
+<record from="14674" to="graphics/pictures/person/14674/portrait"/>
+<record from="108551" to="graphics/pictures/person/108551/portrait"/>
+<record from="108658" to="graphics/pictures/person/108658/portrait"/>
+<record from="115765" to="graphics/pictures/person/115765/portrait"/>
+<record from="814555" to="graphics/pictures/person/814555/portrait"/>
+<record from="2010481" to="graphics/pictures/person/2010481/portrait"/>
+<record from="3100367" to="graphics/pictures/person/3100367/portrait"/>
+<record from="4200584" to="graphics/pictures/person/4200584/portrait"/>
+<record from="4200618" to="graphics/pictures/person/4200618/portrait"/>
+<record from="4210643" to="graphics/pictures/person/4210643/portrait"/>
+<record from="6700151" to="graphics/pictures/person/6700151/portrait"/>
+<record from="1394631879" to="graphics/pictures/person/1394631879/portrait"/>
+
+</list>
+
+</record>
