@@ -1,9 +1,0 @@
-<record>
-	<!-- resource manager options -->
-
-	<!-- don't need to cache this stuff as it is stored in the database -->
-	<boolean id="cache" value="false"/>
-	
-    <!-- the resource manager should store a list of all files in this folder and it's sub folders, so that the game can get a list of all xml rule descriptions -->
-    <boolean id="store_resource_list" value="true"/>
-</record>
