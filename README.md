@@ -1,4 +1,4 @@
-# FM2002
+# FM2002 :soccer::soccer:
 It's about Football Manager 2017 PC Game edited to Football Manager 2002 via Football Manager 2017 Editor.
 
 # What To Do
